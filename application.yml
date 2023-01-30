@@ -1,0 +1,4 @@
+my:
+ greeting: Welcome to Ongole
+ list:
+   values:apple,banana,mango
